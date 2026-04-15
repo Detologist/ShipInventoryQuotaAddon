@@ -1,0 +1,10 @@
+{
+    "name": "ShipInventoryQuotaAddon",
+    "version_number": "1.3.0",
+    "website_url": "https://github.com/yourusername/yourrepo",
+    "description": "Adds a command called [rquota] which retrieves the minimum amount of items to reach the quota from the ship inventory chute, updated for ShipInventoryUpdated v2.0.8, this should work on later versions but do not take my word for it, i will update it if necessary.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Sigurd-ShipInventoryUpdated-1.0.0"
+    ]
+}

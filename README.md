@@ -1,2 +1,1 @@
-# ShipInventoryQuotaAddon
 Adds a command called [rquota] which retrieves the minimum amount of items to reach the quota from the ship inventory chute, updated for ShipInventoryUpdated v2.0.8, this should work on later versions but do not take my word for it, i will update it if necessary.
